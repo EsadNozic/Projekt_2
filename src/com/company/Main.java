@@ -7,7 +7,7 @@ public class Main {
         int i;
         int j;
         int k;
-        i=1;
+        i=10;
         System.out.println ("Hello world 1");
         System.out.println ("Hello world 2");
         System.out.println("Hello world 3");
